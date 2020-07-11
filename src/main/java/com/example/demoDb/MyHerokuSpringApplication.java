@@ -8,6 +8,6 @@ public class MyHerokuSpringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyHerokuSpringApplication.class, args);
+		System.out.println("Welcome fellas..!");
 	}
-
 }
